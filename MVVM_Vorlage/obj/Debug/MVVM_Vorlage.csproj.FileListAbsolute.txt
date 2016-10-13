@@ -1,0 +1,42 @@
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.exe.config
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.exe
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.pdb
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.csprojResolveAssemblyReference.cache
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MainWindow.g.cs
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\App.g.cs
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage_MarkupCompile.cache
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage_MarkupCompile.lref
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MainWindow.baml
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.g.resources
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.Properties.Resources.resources
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.csproj.GenerateResource.Cache
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.exe
+c:\users\florian\documents\visual studio 2015\Projects\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.pdb
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.exe.config
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.exe
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.pdb
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.exe
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.pdb
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MainWindow.g.cs
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\App.g.cs
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage_MarkupCompile.cache
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage_MarkupCompile.lref
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MainWindow.baml
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.g.resources
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.Properties.Resources.resources
+C:\Users\Florian\Desktop\Projects\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.csproj.GenerateResource.Cache
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.exe.config
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MainWindow.g.cs
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\App.g.cs
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage_MarkupCompile.cache
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage_MarkupCompile.lref
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.exe
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\bin\Debug\MVVM_Vorlage.pdb
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MainWindow.baml
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.g.resources
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.Properties.Resources.resources
+C:\Users\Florian\Desktop\Projects\C#\C# Vorlagen\MVVM_Vorlage\MVVM_Vorlage\obj\Debug\MVVM_Vorlage.csproj.GenerateResource.Cache
